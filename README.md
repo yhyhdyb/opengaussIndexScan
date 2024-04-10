@@ -159,7 +159,7 @@ index\_state->ss.ps.ExecProcNode(函数指针function to return next tuple)
 执行流程：
 
 1. 将ss.ps.ps\_ExprContext导出为econtext，将slot插入econtext
-1. Reset eontext,调用ExecQual函数判断所有indexqual条件是否都是true
+1. Reset econtext,调用ExecQual函数判断所有indexqual条件是否都是true
 
 下行接口：
 
