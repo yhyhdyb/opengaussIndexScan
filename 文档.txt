@@ -1,0 +1,7 @@
+opengauss源码安装：https://www.cnblogs.com/AnkleBreaker-ZHX/p/16747576.html
+
+数据库操作演示相关命令：https://yt81sltgs3.feishu.cn/docx/YKavdeUI3oRS6zxcxK5cBJFfnbl?from=from_copylink
+
+https://xvls2tqrza9.feishu.cn/docx/WBXgdRHH5oJ7d0xY6qCcTHBpnLd
+
+https://yt81sltgs3.feishu.cn/docx/Epq9dp31RodK4tx5D5kcVULsnJh
